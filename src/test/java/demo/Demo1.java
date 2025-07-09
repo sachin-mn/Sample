@@ -7,7 +7,7 @@ public class Demo1 {
 		System.out.println("Ningaraju");
 		System.out.println("rekha");
 		System.out.println("sachin_mn");
-		System.out.println("moksha");
+		
 
 	}
 
